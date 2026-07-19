@@ -7,7 +7,7 @@ export default function RecursosPage() {
   return (
     <>
       <Header />
-      <main className="pt-20 bg-[#181818]">
+      <main className="pt-16 bg-[#181818]">
         <section className="py-16 bg-[#040404]">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="mb-6">
