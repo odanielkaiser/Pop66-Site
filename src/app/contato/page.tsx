@@ -36,8 +36,8 @@ export default function Contato() {
                       </div>
                       <div>
                         <div className="text-white font-medium">E-mail</div>
-                        <a href="mailto:contato@pop66.com.br" className="text-gray-400 hover:text-primary text-sm transition-colors">
-                          contato@pop66.com.br
+                        <a href="mailto:pop66drive.aracruz@gmail.com" className="text-gray-400 hover:text-primary text-sm transition-colors">
+                          pop66drive.aracruz@gmail.com
                         </a>
                       </div>
                     </div>
@@ -49,26 +49,12 @@ export default function Contato() {
                       </div>
                       <div>
                         <div className="text-white font-medium">Telefone</div>
-                        <a href="tel:+5511999998888" className="text-gray-400 hover:text-primary text-sm transition-colors">
-                          (11) 99999-8888
+                        <a href="tel:+5527988260143" className="text-gray-400 hover:text-primary text-sm transition-colors">
+                          (27) 98826-0143
                         </a>
                       </div>
                     </div>
-                    <div className="flex items-start gap-4">
-                      <div className="w-10 h-10 rounded-xl bg-primary/10 text-primary flex items-center justify-center flex-shrink-0">
-                        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                        </svg>
-                      </div>
-                      <div>
-                        <div className="text-white font-medium">Endereço</div>
-                        <div className="text-gray-400 text-sm">
-                          Av. Paulista, 1000 - Bela Vista<br />
-                          São Paulo - SP, 01310-100
-                        </div>
-                      </div>
-                    </div>
+
                   </div>
                 </div>
 
