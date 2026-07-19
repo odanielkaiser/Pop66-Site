@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="bg-[#040404] border-t border-white/5">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-10">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-10">
           <div>
             <Link href="/" className="flex items-center gap-2 mb-4">
               <Image
@@ -20,17 +20,6 @@ export default function Footer() {
             <p className="text-sm text-gray-400 leading-relaxed">
               Transformando a mobilidade urbana com tecnologia, segurança e conforto.
             </p>
-          </div>
-
-          <div>
-            <h4 className="font-semibold text-white mb-4">Serviços</h4>
-            <ul className="space-y-3 text-sm text-gray-400">
-              <li><Link href="/#servicos" className="hover:text-primary transition-colors">Pop Econômica</Link></li>
-              <li><Link href="/#servicos" className="hover:text-primary transition-colors">Pop Mercado</Link></li>
-              <li><Link href="/#servicos" className="hover:text-primary transition-colors">Pop Executivo</Link></li>
-              <li><Link href="/#servicos" className="hover:text-primary transition-colors">Pop Pet</Link></li>
-              <li><Link href="/#servicos" className="hover:text-primary transition-colors">Pop Empresa</Link></li>
-            </ul>
           </div>
 
           <div>
